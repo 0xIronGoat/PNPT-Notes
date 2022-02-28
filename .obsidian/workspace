@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "26effd55ae2403ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f12cee9a1e891ae1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IP Addresses.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ceacb0b360f49a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0575e957dc514bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6324a5b77168ce71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4806a339c2cd70cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8ddc1c188eb691e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c64ccbf8cd25e6ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "095afb94581d0b30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IP Addresses.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f12cee9a1e891ae1",
+  "lastOpenFiles": [
+    "IP Addresses.md"
+  ]
+}
