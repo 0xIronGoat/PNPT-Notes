@@ -21,5 +21,5 @@ Devices on your local network are assigned a *private* IP address - these are no
 Certain IP address ranges are reserved for private and public addresses (including some reserved for special services, providers etc).
 
 More info can be found at the following links:  
-https://en.wikipedia.org/wiki/Reserved_IP_addresses
+https://en.wikipedia.org/wiki/Reserved_IP_addresses  
 https://datatracker.ietf.org/doc/html/rfc1918
