@@ -1,13 +1,13 @@
 ### Notekeeping Applications
-KeepNote
-CherryTree
-OneNote
-Joplin
-Obsidian (used for these notes!)
+KeepNote  
+CherryTree  
+OneNote  
+Joplin  
+Obsidian (used for these notes!)  
 
 
 ### Other Tools
-Greenshot - Screenshot tool for Windows/Mac
+Greenshot - Screenshot tool for Windows/Mac  
 Flameshot - Screenshot tools for Windows/Mac/Linux
 
 **Any reason to use these over the screenshot tool built in to Kali and other Linux distros?**
