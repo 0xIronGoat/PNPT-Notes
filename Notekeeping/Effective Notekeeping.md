@@ -1,3 +1,4 @@
+# Effective Notekeeping
 ### Studying:
 Multiple notebooks with different focuses? E.g. one for Active Directory with cheat sheets, enumerations etc.
 
