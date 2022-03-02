@@ -91,10 +91,10 @@
   "lastOpenFiles": [
     "Introduction to Linux/Viewing, Creating and Editing Files.md",
     "Introduction to Linux/Users and Privileges.md",
-    "Introduction to Linux/Navigating the File System.md",
-    "Introduction to Linux/Common Network Commands.md",
-    "Introduction to Linux/Installing and Updating Tools.md",
     "Introduction to Linux/Sudo Overview.md",
+    "Introduction to Linux/Navigating the File System.md",
+    "Introduction to Linux/Installing and Updating Tools.md",
+    "Introduction to Linux/Common Network Commands.md",
     "Networking/MAC Addresses.md",
     "Networking/The OSI Model.md",
     "Networking/IP Addresses.md",

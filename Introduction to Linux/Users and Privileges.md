@@ -20,9 +20,9 @@ You can add a specific permission, e.g. to add execute permission: `chmod +x`
 
 **Numerical permission values**  
 `r`, `w`, and `x` each have a numerical value:  
-	- `r` = 4  
-	- `w` = 2  
-	- `x` = 1  
+- `r` = 4  
+- `w` = 2  
+- `x` = 1  
 
 Using the `chmod` command, you can use these numbers to set the permissions for user, group and others for a file.
 

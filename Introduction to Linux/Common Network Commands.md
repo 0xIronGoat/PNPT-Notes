@@ -7,6 +7,6 @@
 `route` - show your routing table (exit route, gateway, netmask etc). Could be useful to see if a device has 2 x NICs for example and it is talking to an entire other network you were unaware of  
 
 `ip` - new and improved network info command to replace `ifconfig`, `arp` or `route`  
-	`ip -a` - similar to `ifconfig`  
-	`ip -n` - similar to `arp`  
-	`ip -r` - similar to `route`  
+- `ip -a` - similar to `ifconfig`  
+- `ip -n` - similar to `arp`  
+- `ip -r` - similar to `route`  
