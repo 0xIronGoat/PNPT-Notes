@@ -3,16 +3,37 @@
 Easy to remember with a mnemonic such as: **A**ll **P**eople **S**hould **T**ry **N**ew **D**r **P**epper
 
 ## Layer 7 - Application
-HTTP, SMTP etc
+Provides communications protocols and interfaces for software processes
+Top of the stack
+Doesn't encapsulate any other protocols
+e.g. HTTP, SMTP etc
 ## Layer 6 - Presentation
-WMV, JPEG, MOV
+Character set conversion
+Compression/decompression
+Encryption/decryption
+e.g. WMV, JPEG, MOV
 ## Layer 5 - Session
-Session management
+Identify messages belonging to same "conversation"
+Dialog control (simplex, half-duplex, duplex)
+Establish, manage and terminate session
 ## Layer 4 - Transport
-TCP/UDP
+Multiplexing and de-multiplexing
+Reliable (connection-oriented) delivery - TCP
+Unreliable (connectionless) delivery - UDP
+Devices such as multi-layer switches
+Security applications such as advanced firewalls, IDS/IPS etc
 ## Layer 3 - Network
-IP addresses, routing
+Moving data around a network of networks
+Logical addressing between networks (IP addressing)
+Routing
+Devices such as routers, layer 3 switches, basic firewalls
 ## Layer 2 - Data-link
-Switching, MAC addresses
+Local network devices
+Organise bits in to frames
+MAC addresses
+Devices such as network interface cards, bridges, basic switches
 ## Layer 1 - Physical
-Network interface cards, cables
+Nodes, stations, hosts
+Signalling
+Mechanical specs (cable specs, connector form factors, radio tranceiver specs)
+Devices such as tranceivers, media converters, hubs/repeaters, modems

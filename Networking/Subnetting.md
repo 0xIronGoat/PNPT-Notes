@@ -52,10 +52,26 @@ You can see above that there are 20 bits set to `1`, meaning the CIDR notation o
 
 
 A great resource on subnetting is Sunny Classroom on YouTube, please see his channel and his specific subnetting playlist below:  
-[Sunny Classroom - YouTube](https://www.youtube.com/channel/UCr0Ze4SR3MHXAgz1TvRYL7Q)
+[Sunny Classroom - YouTube](https://www.youtube.com/channel/UCr0Ze4SR3MHXAgz1TvRYL7Q)  
 [Subnetting Playlist](https://www.youtube.com/playlist?list=PLSNNzog5eydueOR_p6dezKr2tosjGvdNH)
 
 
 ### Subnetting Table
 
-The below table can help you work out number of hosts on a subnet
+The below table can help you work out number of subnets available, number of IPs per subnet, *usable* IP addresses (minus network and broadcast addresses) based on a subnet mask:
+
+```
+| Subnet Mask     | CIDR        | IP Addresses | Usable IPs | Subnets |
+| --------------- | ----------- | ------------ | ---------- | ------- |
+| 255.255.255.0   | /24         | 256          | 254        | 1       |
+| 255.255.255.128 | /25         | 128          | 126        | 2       |
+| 255.255.255.192 | /26         | 64           | 62         | 4       |
+| 255.255.255.224 | /27         | 32           | 30         | 8       |
+| 255.255.255.240 | /28         | 16           | 14         | 16      |
+| 255.255.255.248 | /29         | 8            | 6          | 32      |
+| 255.255.255.252 | /30         | 4            | 2          | 64      |
+| 255.255.255.254 | /31         | 2            | 2*         | 128     |
+| 255.255.255.255 | /32         | 1            | 2          | 256     |
+
+```
+**Note** - You will see that `/31` doesn't follow the pattern of usables IPs being 2 less than total IP addresses due to network and broadcast addresses. This is a special case as noted in [RFC 3021](https://tools.ietf.org/html/rfc3021).
