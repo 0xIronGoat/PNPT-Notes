@@ -18,15 +18,15 @@ The rest is split in to 3 groups of 3 `rwx`:
 `chmod` - "change mode", alter file permissions
 You can add a specific permission, e.g. to add execute permission: `chmod +x`
 
-**Numerical permission values**
-`r`, `w`, and `x` each have a numerical value:
-	- `r` = 4
-	- `w` = 2
-	- `x` = 1
+**Numerical permission values**  
+`r`, `w`, and `x` each have a numerical value:  
+	- `r` = 4  
+	- `w` = 2  
+	- `x` = 1  
 
 Using the `chmod` command, you can use these numbers to set the permissions for user, group and others for a file.
 
-`chmod 777` = `rwx` for everyone
+`chmod 777` = `rwx` for everyone  
 `chmod 764` = `rwx` for owner, `rw` for group and `r` for everyone else
 
 
