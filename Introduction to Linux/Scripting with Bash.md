@@ -3,8 +3,8 @@
 `grep` - search for a string in a file or some command output  
 - e.g. `grep "string" filename.txt` or `cat filename.txt | grep "string"`  
 
-`cut` - cut some text based on a delimeter  
-- e.g. `cut -d " " -f 4`, give me the 4th field based on a space delimeter  
+`cut` - cut some text based on a delimiter  
+- e.g. `cut -d " " -f 4`, give me the 4th field based on a space delimiter  
 
 `tr` - translate  
 - e.g. `tr -d ":"`, remove : from my output  
