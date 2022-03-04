@@ -7,8 +7,12 @@
         "id": "f12cee9a1e891ae1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Introduction to Python/Port Scanner.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction to Python/Port Scanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "f12cee9a1e891ae1",
   "lastOpenFiles": [
+    "Introduction to Python/Port Scanner.md",
     "test.md",
     "Introduction to Python/python-sockets.png",
     "Introduction to Python/Sockets.md",
@@ -92,7 +98,6 @@
     "Introduction to Python/Importing Modules.md",
     "Introduction to Python/Looping.md",
     "Introduction to Python/Tuples.md",
-    "Introduction to Python/Lists.md",
-    "Introduction to Python/Boolean Expressions.md"
+    "Introduction to Python/Lists.md"
   ]
 }
