@@ -7,10 +7,8 @@
         "id": "f12cee9a1e891ae1",
         "type": "leaf",
         "state": {
-          "type": "image",
-          "state": {
-            "file": "Introduction to Python/python-sockets.png"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Python/python-sockets.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +84,7 @@
   },
   "active": "f12cee9a1e891ae1",
   "lastOpenFiles": [
+    "test.md",
     "Introduction to Python/python-sockets.png",
     "Introduction to Python/Sockets.md",
     "Introduction to Python/Dictionaries.md",
@@ -95,7 +93,6 @@
     "Introduction to Python/Looping.md",
     "Introduction to Python/Tuples.md",
     "Introduction to Python/Lists.md",
-    "Introduction to Python/Boolean Expressions.md",
-    "Introduction to Python/Conditional Statements.md"
+    "Introduction to Python/Boolean Expressions.md"
   ]
 }
