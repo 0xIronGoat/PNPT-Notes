@@ -7,11 +7,9 @@
         "id": "f12cee9a1e891ae1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Introduction to Python/Sockets.md",
-            "mode": "source",
-            "source": false
+            "file": "Introduction to Python/python-sockets.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Python/Sockets.md",
+                "file": "Introduction to Python/python-sockets.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +87,8 @@
   },
   "active": "f12cee9a1e891ae1",
   "lastOpenFiles": [
+    "Introduction to Python/python-sockets.png",
     "Introduction to Python/Sockets.md",
-    "Introduction to Python/python-sockets.png.png",
     "Introduction to Python/Dictionaries.md",
     "Introduction to Python/Advanced Strings.md",
     "Introduction to Python/Importing Modules.md",

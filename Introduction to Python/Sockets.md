@@ -21,4 +21,4 @@ In a separate terminal window, run netcat listening on port 7777:
 `nc -lvnp 7777`
 
 Then run the python script from above and you should see a connection come through in netcat:
-![[python-sockets.png.png]]
+![[python-sockets.png]]
