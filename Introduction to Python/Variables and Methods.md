@@ -1,11 +1,11 @@
 # Variables and Methods
-Assign and print a string variable:
+##### Assign and print a string variable:
 ```
 quote="There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy."
 print(quote)
 ```
 
-Methods:
+##### Methods:
 ```
 print(quote.upper()) # Print quote in upper case
 print(quote.lower()) # Print quote in lower case
@@ -14,7 +14,7 @@ print(quote.title()) # Print quote in title case
 print(len(quote)) # Print length (in characters) of quote
 ```
 
-Variable types:
+##### Variable types:
 ```
 name = "IronGoat" # string
 age = 33 # integer

@@ -2,7 +2,7 @@
 Chunks of code that can be defined and then called multiple times later on.
 Means you don't have to write the same cade out multiple times, you can just call the function.
 
-Function definition and call:
+##### Function definition and call:
 ```
 def who_am_i():
 	name = "IronGoat"
@@ -14,7 +14,7 @@ who_am_i()
 
 **Note:** Python is very particular about indentation. Code intended to be part of a function must be indented. Notice the function call at the end is then *not* indented, as it is not part of the function.
 
-Parameters:
+##### Parameters:
 ```
 # One parameter
 def add_one_hundred(num):
@@ -29,7 +29,7 @@ def add_two_nums(num1, num2):
 add_two_nums(20, 45) # Will print 65
 ```
 
-Return statement:
+##### Return statement:
 ```
 def multiply(num1, num2):
 	return(num1 * num2)

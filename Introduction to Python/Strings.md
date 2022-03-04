@@ -5,7 +5,7 @@ Shebang, good idea to include at the top of every script, points to your python 
 ```
 
   
-Printing text can use single or double quotes, newlines can be printed with regular expression `\n`:
+##### Printing text can use single or double quotes, newlines can be printed with regular expression `\n`:
 ```
 print("Hello, world!")
 print('\n')
@@ -13,14 +13,14 @@ print('Hello, world!')
 ```
 
   
-Strings can be on multiple lines:
+##### Strings can be on multiple lines:
 ```
 print("""This string runs 
 multiple lines!""")
 ```
 
   
-Concatenation:
+##### Concatenation:
 ```
 print("This string is " + "awesome!")
 ```

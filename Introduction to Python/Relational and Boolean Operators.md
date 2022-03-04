@@ -13,4 +13,5 @@ test_or_2 = (7 > 5) or (5 > 7) # True
 test_not_1 = not True # False
 test_not_1 = not False # True
 ```
+
 Search for python truth tables in python if having difficulty
