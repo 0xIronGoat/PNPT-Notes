@@ -1,6 +1,4 @@
 # Strings
-strings.py  
-
 Shebang, good idea to include at the top of every script, points to your python binary so you can execute a script with `./script.py` rather than having to be explicit with `python3 script.py`:
 ```
 #!/bin/python3
