@@ -90,13 +90,13 @@
   "active": "f12cee9a1e891ae1",
   "lastOpenFiles": [
     "Introduction to Python/Strings.md",
-    "Introduction to Linux/Scripting with Bash.md",
+    "Introduction to Linux/Common Network Commands.md",
+    "Introduction to Linux/Installing and Updating Tools.md",
+    "Introduction to Linux/Navigating the File System.md",
     "Introduction to Linux/Viewing, Creating and Editing Files.md",
     "Introduction to Linux/Users and Privileges.md",
     "Introduction to Linux/Sudo Overview.md",
-    "Introduction to Linux/Navigating the File System.md",
-    "Introduction to Linux/Installing and Updating Tools.md",
-    "Introduction to Linux/Common Network Commands.md",
+    "Introduction to Linux/Scripting with Bash.md",
     "Networking/MAC Addresses.md",
     "Networking/The OSI Model.md"
   ]
