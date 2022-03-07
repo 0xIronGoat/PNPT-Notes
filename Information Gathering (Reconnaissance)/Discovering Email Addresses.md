@@ -9,10 +9,8 @@
 
 [EmailHippo](https://tools.emailhippo.com/) - Provide an email address and this tool will tell you if it is valid. 100 checks per day.
 
-[Email Checker](https://email-checker.net/) - Same as EmailHippo email address verifyer.
+[Email Checker](https://email-checker.net/) - Same as EmailHippo email address verifier.
 
-Finally, don't underestimate "Forgot Password" links!
-
-If you click the "Forgot Password" button for a particular email address, the results could confirm you are in posession of a valid email address if it takes you on to an account recovery page.
+Finally, don't underestimate "Forgot Password" links! If you click the "Forgot Password" button for a particular email address, the results could confirm you are in posession of a valid email address if it takes you on to an account recovery page.
 
 Additionally, you may be able to select different recovery methods which, in some cases, could hint towards other email addresses owned by the account owner, giving you solid proof of a link.

@@ -1,5 +1,5 @@
 # Identifying Our Target
-Will be using [BugCrowd](https://bugcrowd.com/) for thie portion of the course. Make an account on their Researcher Portal and choose a program to get started.
+Will be using [BugCrowd](https://bugcrowd.com/) for this portion of the course. Make an account on their Researcher Portal and choose a program to get started.
 
 In this case, Heath is going with Tesla.
 
