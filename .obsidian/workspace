@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction to Python/Port Scanner.md",
+            "file": "Information Gathering (Reconnaissance)/Discovering Email Addresses.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Python/Port Scanner.md",
+                "file": "Information Gathering (Reconnaissance)/Discovering Email Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f12cee9a1e891ae1",
   "lastOpenFiles": [
-    "Introduction to Python/Port Scanner.md",
-    "test.md",
-    "Introduction to Python/python-sockets.png",
-    "Introduction to Python/Sockets.md",
-    "Introduction to Python/Dictionaries.md",
-    "Introduction to Python/Advanced Strings.md",
-    "Introduction to Python/Importing Modules.md",
-    "Introduction to Python/Looping.md",
-    "Introduction to Python/Tuples.md",
-    "Introduction to Python/Lists.md"
+    "Information Gathering (Reconnaissance)/Discovering Email Addresses.md",
+    "Information Gathering (Reconnaissance)/Identifying Our Target.md",
+    "Information Gathering (Reconnaissance)/Tools & Techniques/WeLeakInfo.md",
+    "Information Gathering (Reconnaissance)/Tools & Techniques/Breach-Parse.md",
+    "Information Gathering (Reconnaissance)/Passive Recon.md",
+    "Information Gathering (Reconnaissance)/Tools & Techniques/HaveIBeenPwned.md",
+    "Information Gathering (Reconnaissance)/Tools & Techniques/Netcat.md",
+    "Information Gathering (Reconnaissance)/Tools & Techniques/BuiltWith.md",
+    "Information Gathering (Reconnaissance)/Tools & Techniques/WhatWeb.md",
+    "Information Gathering (Reconnaissance)/Tools & Techniques/Wappalyzer.md"
   ]
 }
