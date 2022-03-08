@@ -49,6 +49,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "48863e6d9dfa148a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -80,6 +88,29 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "77f824ec3dff336a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information Gathering (Reconnaissance)/Discovering Email Addresses/Discovering Email Addresses.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5ad9f7fbd2294065",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -90,6 +121,7 @@
   "active": "f12cee9a1e891ae1",
   "lastOpenFiles": [
     "Information Gathering (Reconnaissance)/Discovering Email Addresses/Discovering Email Addresses.md",
+    "Information Gathering (Reconnaissance)/Discovering Email Addresses/Tools/hunter.io.md",
     "Introduction to Python/Sockets.md",
     "Introduction to Python/Port Scanner.md",
     "Notekeeping/Tools.md",
@@ -97,7 +129,6 @@
     "Notekeeping/Effective Notekeeping.md",
     "Introduction to Linux/Common Network Commands.md",
     "Introduction to Python/python-sockets.png",
-    "Information Gathering (Reconnaissance)/Discovering Email Addresses/Tools/Email Checker.md",
-    "Information Gathering (Reconnaissance)/Discovering Email Addresses/Tools/Email Hippo.md"
+    "Information Gathering (Reconnaissance)/Discovering Email Addresses/Tools/Email Checker.md"
   ]
 }
