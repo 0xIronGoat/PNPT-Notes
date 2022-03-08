@@ -14,3 +14,5 @@ For the best experience...
 `git clone https://github.com/0xIronGoat/PNPT-Notes.git`  
 
 3. Then open the repo folder as a vault from within Obsidian.
+
+Note: If opened in Obsidian, press `crtl + shift + =` to view a mind map of your current page.
