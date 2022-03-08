@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Information Gathering (Reconnaissance)/Identifying Our Target.md",
+            "file": "Information Gathering (Reconnaissance)/Discovering Email Addresses/Discovering Email Addresses.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -69,13 +70,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering (Reconnaissance)/Identifying Our Target.md",
+                "file": "Information Gathering (Reconnaissance)/Discovering Email Addresses/Discovering Email Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -84,20 +85,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f12cee9a1e891ae1",
   "lastOpenFiles": [
-    "Information Gathering (Reconnaissance)/Identifying Our Target.md",
-    "Information Gathering (Reconnaissance)/Discovering Email Addresses.md",
-    "Information Gathering (Reconnaissance)/Tools & Techniques/WeLeakInfo.md",
-    "Information Gathering (Reconnaissance)/Tools & Techniques/Breach-Parse.md",
-    "Information Gathering (Reconnaissance)/Passive Recon.md",
-    "Information Gathering (Reconnaissance)/Tools & Techniques/HaveIBeenPwned.md",
-    "Information Gathering (Reconnaissance)/Tools & Techniques/Netcat.md",
-    "Information Gathering (Reconnaissance)/Tools & Techniques/BuiltWith.md",
-    "Information Gathering (Reconnaissance)/Tools & Techniques/WhatWeb.md",
-    "Information Gathering (Reconnaissance)/Tools & Techniques/Wappalyzer.md"
+    "Information Gathering (Reconnaissance)/Discovering Email Addresses/Discovering Email Addresses.md",
+    "Introduction to Python/Sockets.md",
+    "Introduction to Python/Port Scanner.md",
+    "Notekeeping/Tools.md",
+    "Notekeeping/Flameshot.png",
+    "Notekeeping/Effective Notekeeping.md",
+    "Introduction to Linux/Common Network Commands.md",
+    "Introduction to Python/python-sockets.png",
+    "Information Gathering (Reconnaissance)/Discovering Email Addresses/Tools/Email Checker.md",
+    "Information Gathering (Reconnaissance)/Discovering Email Addresses/Tools/Email Hippo.md"
   ]
 }
