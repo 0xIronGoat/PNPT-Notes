@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Introduction to Python\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Networking",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Information Gathering (Reconnaissance)\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Introduction to Linux\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -2.2,
   "nodeSizeMultiplier": 1.14606741573034,
   "lineSizeMultiplier": 2.35730337078652,
   "collapse-forces": false,
-  "centerStrength": 0.297752808988764,
-  "repelStrength": 7.97752808988764,
-  "linkStrength": 0.97752808988764,
-  "linkDistance": 167,
-  "scale": 0.5087618855792612,
+  "centerStrength": 0.376068376068376,
+  "repelStrength": 7.86324786324786,
+  "linkStrength": 1,
+  "linkDistance": 175,
+  "scale": 0.5087618855792619,
   "close": false
 }
