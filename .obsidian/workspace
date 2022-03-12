@@ -7,13 +7,8 @@
         "id": "361939f01498608a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Information Gathering (Reconnaissance)/Identifying Website Technologies.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering (Reconnaissance)/Identifying Website Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Gathering (Reconnaissance)/Identifying Website Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,15 +114,15 @@
   },
   "active": "361939f01498608a",
   "lastOpenFiles": [
-    "Information Gathering (Reconnaissance)/Identifying Website Technologies.md",
-    "Information Gathering (Reconnaissance)/Hunting Subdomains.md",
-    "Information Gathering (Reconnaissance)/Tools/BuiltWith.md",
-    "Information Gathering (Reconnaissance)/Tools/crt.sh.md",
-    "Information Gathering (Reconnaissance)/Tools/HTTProbe.md",
-    "Information Gathering (Reconnaissance)/Tools/OWASP Amass.md",
-    "Information Gathering (Reconnaissance)/Tools/Sublist3r.md",
-    "Information Gathering (Reconnaissance)/Tools/Wappalyzer.md",
-    "Information Gathering (Reconnaissance)/Tools/WhatWeb.md",
-    "Information Gathering (Reconnaissance)/Breached Credentials.md"
+    "Information Gathering (Reconnaissance)/Passive Recon.md",
+    "Information Gathering (Reconnaissance)/Discovering Email Addresses.md",
+    "Information Gathering (Reconnaissance)/Utilising Social Media.md",
+    "Information Gathering (Reconnaissance)/Google Fu.md",
+    "Information Gathering (Reconnaissance)/Information Gathering with Burp Suite.md",
+    "Information Gathering (Reconnaissance)/Tools/Burp Suite.md",
+    "Information Gathering (Reconnaissance)/Tools/Online Hash Crackers.md",
+    "Information Gathering (Reconnaissance)/Breached Credentials.md",
+    "Information Gathering (Reconnaissance)/Tools/Email & User Recon/VoilaNorbert.md",
+    "Information Gathering (Reconnaissance)/Tools/Email & User Recon/phonebook.cz.md"
   ]
 }

@@ -21,10 +21,10 @@ e.g. someone once took a photo of themselves at work watching a basketball game,
 	- *WHOIS*, *nslookup*, *dnsrecon*
 	- Client may give you an IP address or website, but could have made a mistake and given you the wrong info, you could end up attacking someone else's website.
 - **Finding Subdomains**
-	- *Google Fu*, *dig*, *Nmap*, *Sublist3r*, *Bluto*, *crt.sh*
+	- [[Google Fu]], *dig*, *Nmap*, [[Tools/Subdomains/Sublist3r|Sublist3r]], *Bluto*, [[Tools/Subdomains/crt.sh|crt.sh]]
 - **Fingerprinting**
-	- *Nmap*, *Wappalyzer*, *WhatWeb*, *BuiltWith*, *Netcat*
+	- *Nmap*, [[Tools/Website Technologies/Wappalyzer|Wappalyzer]], [[Tools/Website Technologies/WhatWeb|WhatWeb]], [[Tools/Website Technologies/BuiltWith|BuiltWith]], *Netcat*
 	- Find what is running on a website or host, what versions of services etc. Can be both active and passive depending on whether or not you are actually carrying out scans on the target.
 - **Data Breaches**
-	- *HaveIBeenPwned*, *Breach-Parse*, *WeLeakInfo* 
+	- *HaveIBeenPwned*, [[Tools/Email & User Recon/Breach-Parse|Breach-Parse]], *WeLeakInfo* 
 	- Most common way of getting in to networks. Breach incidents from the past that have leaked credentials, we can utilize usernames or re-used passwords to get access.

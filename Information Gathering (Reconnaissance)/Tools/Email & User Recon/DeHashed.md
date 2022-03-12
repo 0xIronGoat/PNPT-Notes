@@ -11,4 +11,4 @@ This can let you expand on the information you have, relate multiple accounts to
 
 You could then try to crack a password hash with an online hash cracker (hashes.org appears to no longer exist but you could use [[Online Hash Crackers#hashes com|hashes.com]] or [[Online Hash Crackers#crackstation net|crackstation.net]]).
 
-e.g. we found `shark@tesla.com` from a dump of breached credentials with [[Breach-Parse]], we then searched for it here and found a number of other accounts and passwords potentially linked to this email
+e.g. we found `shark@tesla.com` from a dump of breached credentials with [[Email & User Recon/Breach-Parse|Breach-Parse]], we then searched for it here and found a number of other accounts and passwords potentially linked to this email
